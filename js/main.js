@@ -338,7 +338,7 @@
                 $.ajax({
     
                     type: "POST",
-                    url: "inc/sendEmail.php",
+                    url: "https://formspree.io/mlewbvna",
                     data: $(form).serialize(),
                     beforeSend: function() { 
     
